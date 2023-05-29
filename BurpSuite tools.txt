@@ -1,0 +1,265 @@
+Summary of open source tools of the week
+
+I dedicated this week to present burpsuite plugins in coordination with penetration testing, below is the summary with some bonus :
+
+Plugin 1 : H1 Report Finder
+Usage: Finds public security reports published on Hackerone 
+Link of the repository : https://lnkd.in/evH2C45B
+
+Plugin 2 : WordPress Scanner
+Usage: Finds known vulnerabilities in WordPress plugins and themes
+Link of the repository : https://lnkd.in/eee5p97Z
+
+Plugin 3 : Pentest Mapper
+Usage: Allows users to keep track of vulnerabilities and to map each flow to vulnerability with the custom checklist
+Link of the repository : https://lnkd.in/euaMkEza
+
+Plugin 4 : Autowasp
+Usage: Integrates Burp issues logging, with OWASP Web Security Testing Guide (WSTG)
+Link of the repository : https://lnkd.in/eax6v3_s
+
+Plugin 5 : burp_bug_finder
+Usage: Discovers XSS and error based SQLi without user intervention 
+Link of the repository : https://lnkd.in/eQWfgP6x
+
+Plugin 6 : Auth Analyzer
+Usage: Finds authorization bug, broken access control
+Link of the repository : https://lnkd.in/ej3r5qqM
+
+Plugin 7 : Active Scan ++
+Usage: Identifies application behavior that may be of interest to advanced testers
+Link of the repository : https://lnkd.in/ek5wQd9B
+
+Plugin 8 : NoSQL Scanner
+Usage: Provides a way to discover NoSQL injection vulnerabilities.
+Link of the repository : https://lnkd.in/ef_PycBs
+
+Plugin 9 : Nuclei Burp Integration
+Usage: Allows to run Nuclei Scanner directly from Burp and transforms JSON results into the issues
+Link of the repository : https://lnkd.in/eumSKQZu
+
+Plugin 10 : Wordlist Extractor  
+Usage: Scrapes all unique words and numbers for use with password cracking 
+Link of the repository : https://lnkd.in/eBkypXFn
+
+
+
+A collection of FREE labs to practice and test your Red Team & Blue Team, and CTF Skills:👇🏻
+
+
+Attack-Defense - https://buff.ly/3FMbOB6
+
+Alert to win - https://buff.ly/3BtqJOb
+
+Bancocn - https://buff.ly/3HpEWzo
+
+CTF Komodo Security - https://buff.ly/3FLdtXs
+
+CryptoHack - https://buff.ly/2XkGXpC
+
+CMD Challenge -https://buff.ly/3oJR9E7
+
+Exploitation Education - https://buff.ly/3llfSNt
+
+Google CTF - https://buff.ly/3hht1c8
+
+HackTheBox - https://buff.ly/3PjHiSe
+
+Hackthis - https://buff.ly/30WtPFA
+
+Hacksplaining - https://buff.ly/3We8m7U
+
+Hacker101 - https://buff.ly/3Btfo0m
+
+Hacker Security - https://buff.ly/3BtAxaP
+
+Hacking-Lab - https://buff.ly/3FJp0qu
+
+HSTRIKE - https://buff.ly/3UWuvWV
+
+NewbieContest - https://buff.ly/3j1eKAI
+
+OverTheWire - https://buff.ly/2CiEJvr
+
+Practical Pentest Labs - https://buff.ly/3PlbVXu
+
+Pentestlab - https://buff.ly/3uFQxmp
+
+Hackaflag BR - https://buff.ly/2Wz6kEQ
+
+Penetration Testing Practice Labs - https://buff.ly/3PlbVXu
+
+PentestIT LAB - https://lab.pentestit.ru/
+
+PicoCTF - https://picoctf.com/
+
+PWNABLE - https://lnkd.in/eMEwBJzn
+
+Root-Me - https://www.root-me.org/
+
+Root in Jail - http://rootinjail.com/
+
+SANS Challenger - https://buff.ly/3BxM6h9
+
+SmashTheStack - https://buff.ly/3UQC4yy
+
+The Cryptopals Crypto Challenges - https://buff.ly/3GwUu1w
+
+Try Hack Me - https://buff.ly/2Q6oEAM
+
+Vulnhub - https://buff.ly/2IFIIbG
+
+W3Challs - https://buff.ly/3FmYZfh
+
+WeChall - https://buff.ly/371xO8b
+
+Zenk-Security - https://buff.ly/3PkIcxL
+
+Cyberdefenders - https://buff.ly/3VNu8zk
+
+LetsDefend - https://buff.ly/351CA4W
+
+Vulnmachines - https://buff.ly/3uKxLKp
+
+Rangeforce - https://buff.ly/3uFRpaF
+
+Ctftime - https://buff.ly/3hipnyR
+
+Pwn college - https://buff.ly/3uGjzlQ
+
+
+Damn Vulnerabilities List Lab
+
+#AWSGoat : A Damn Vulnerable AWS Infrastructure
+ https://lnkd.in/dq2cYPG2
+
+#AzureGoat : A Damn Vulnerable Azure Infrastructure
+ https://lnkd.in/dKMMrESA
+
+#GCPGoat: A Damn Vulnerable GCP Infraestructure
+https://lnkd.in/dMVmNuvZ
+
+#DeFi: Damn Vulnerable DeFi
+https://lnkd.in/dbWesvxW
+
+#Webpentest: A Damn Vulnerable Web Application
+https://lnkd.in/dNJxX-Fe
+
+#API: A Damn Vulnerable Web Sockets
+https://lnkd.in/dMbJgP5h
+
+#Mobile: Damn Vulnerable Hybrid Mobile App
+https://lnkd.in/dSMZMuzZ
+
+#CICD: Deliberately vulnerable CI/CD environment
+https://lnkd.in/dCxZb88q
+
+#GraphQL: Damn Vulnerable GraphQL Application
+https://lnkd.in/d5V6P9HA
+
+#Webservice: Damn Vulnerable Web Services
+https://lnkd.in/dAu8HAyd
+
+#VamPI: Vulnerable API
+https://lnkd.in/dRPpBNjj
+
+#DVSA: Damn Vulnerable Serverless Application
+https://lnkd.in/dnvdNcfq
+
+#DVTA: DVTA is a Vulnerable Thick Client Application 
+https://lnkd.in/dDhEDgdx
+
+#DVJA: Damn Vulnerable Java Application
+https://lnkd.in/dqFyjYWP
+
+#DVID: Damn Vulnerable IoT Device
+https://lnkd.in/dNV2RjUj
+
+#DVPWA: Damn Vulnerable Python Web Application
+https://lnkd.in/diDvsz8u
+
+#DVAS: Damn Vulnerable Application Scanner
+https://lnkd.in/dq_aC4pX
+
+#DVB: Damn Vulnerable Bank
+https://lnkd.in/dyGWJzxD
+
+#DVWPS: Damn Vulnerable WordPress Site
+https://lnkd.in/dkY-tXHe
+
+#DVNA: Damn Vulnerable NodeJS Application
+https://lnkd.in/ds3JReM5
+
+#DVRA: Damn Vulnerable Ruby on Rails
+https://lnkd.in/djQ_ehzi
+
+#DVGM: Damn Vulnerable Grade Management
+https://lnkd.in/dAepn4K7
+
+#Tiredful
+https://lnkd.in/d3NjivMu
+
+#DVCSharp: Damn Vulnerable C# Application
+https://lnkd.in/d8cZxdnr
+
+#DVHMA: Damn Vulnerable Hybrid Mobile App
+https://lnkd.in/dSMZMuzZ
+
+#DVIA: Damn Vulnerable iOS App
+https://lnkd.in/dJqPp-d9
+
+#DVIA2: Damn Vulnerable iOS App 2
+https://lnkd.in/dhGUXurv
+
+#DVRF: Damn Vulnerable Router Firmware
+https://lnkd.in/dUda_XsF
+
+#DVFaaS: Damn Vulnerable Functions as a Service
+https://lnkd.in/drVpszwD
+
+#DVCA: Damn Vulnerable Cloud Application
+https://lnkd.in/dPyKYKw4
+
+
+Your Risk Management Process Methodologies :
+-------------
+ISO 27005:2011 Information Security Risk Management
+https://lnkd.in/gM-dpPHz
+
+PCI DSS Risk Assessment Guidelines
+https://lnkd.in/g8RFqFyF
+PCI_DSS_Risk_Assmt_Guidelines_v1.pdf
+
+NIST SP 800-30 (R1) Guide for Conducting Risk Assessments
+https://lnkd.in/gNQMnEEv
+nistspecialpublication800-30r1.pdf
+
+OCTAVE Cyber Risk and Resilience Management
+https://lnkd.in/gSuqa_pf
+
+ENISA Cloud Computing Security Risk Assessment guide
+https://lnkd.in/gtc9ExmC
+deliverables/cloud-computing-risk-assessment/at_download/fullReport
+
+
+
+Best and Efficient tools for hash cracking
+
+BruteForce Wallet - Find the password of an encrypted wallet file (i.e. wallet.dat).
+https://lnkd.in/dbBjTx6y
+
+GoCrack - Management Web frontend for distributed password
+cracking sessions using hashcat (or other supported tools) written in Go.
+https://lnkd.in/dKtbigGX
+
+Hashcat - The more fast hash cracker.
+https://lnkd.in/dscHjvSh
+
+hate_crack - Tool for automating cracking methodologies through Hashcat.
+https://lnkd.in/dw4nCRcH
+
+JWT Cracker - Simple HS256 JSON Web Token (JWT) token brute force cracker.
+https://lnkd.in/dJePvdUc
+
+John the Ripper - Fast password cracker.
+https://lnkd.in/dWDASX8t
